@@ -1,7 +1,5 @@
 ## Hi there 👋  This is Tarun Raaj
 
-### 🔭 Current Focus
-
 <!--
 tarunraaj2003/tarunraaj2003 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
@@ -49,11 +47,10 @@ Pursuing B.Tech. in Computer Science, Sri Ramachandra Faculty of Engineering and
   ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange?style=flat&logo=mongodb)
 
 ## GitHub Stats
+
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunraaj2003&show_icons=true&bg_color=ffffff&text_color=000000)
 
-
 ![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tarunraaj2003&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true)
-
 
 
 ## Languages Spoken
