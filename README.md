@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Education
 
-Pursuing B.Tech. in Computer Science, Sri Ramachandra Faculty of Engineering and Technology 
+Pursuing B.Tech. in Computer Science Engineering at Sri Ramachandra Faculty of Engineering and Technology 
 
 ## Skills
 
@@ -32,6 +32,7 @@ Pursuing B.Tech. in Computer Science, Sri Ramachandra Faculty of Engineering and
   ![Python](https://img.shields.io/badge/Python-Intermediate-orange?style=flat&logo=python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange?style=flat&logo=javascript) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=flat&logo=java)
+
 
   
 - Web Development: <br>
