@@ -1,7 +1,7 @@
-## Hi there 👋 , This is Tarun Raaj
+## Hi there 👋  This is Tarun Raaj
 
 <!--
-**tarunraaj2003/tarunraaj2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tarunraaj2003/tarunraaj2003 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,10 +12,58 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
 
+## Reach Out
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarun-raaj-r-045a73303/) <br>
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/tarunraaj7) <br>
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tarunraaj2003l@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarun-raaj-r-045a73303/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/tarunraaj7) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:tarunraaj2003l@gmail.com)
+
+## Education
+
+Pursuing B.Tech. in Computer Science, Sri Ramachandra Faculty of Engineering and Technology 
+
+## Skills
+
+- Programming Languages: <br>
+
+  ![Python](https://img.shields.io/badge/Python-Intermediate-orange?style=flat&logo=python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange?style=flat&logo=javascript) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=flat&logo=java)
+
+  
+- Web Development: <br>
+
+  ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?style=flat&logo=html5) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![React](https://img.shields.io/badge/React-Intermediate-orange?style=flat&logo=react)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS-Intermediate-orange?style=flat&logo=css3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  
+- Databases: <br>
+
+  ![SQL](https://img.shields.io/badge/SQL-Intermediate-orange?style=flat&logo=postgresql) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-orange?style=flat&logo=mongodb)
+
+
+
+## Languages Spoken
+
+- Tamil
+- English
+  
+
+## Interests and Hobbies
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <div style="text-align: center;">
+    <img src="https://media.istockphoto.com/id/177427917/photo/close-up-of-red-cricket-ball-and-bat-sitting-on-grass.webp?b=1&s=170667a&w=0&k=20&c=WGO8Ikx5NSa1W7KC922jlzgnSq46gnP6G14cGWsvVUw=" alt="Photography" style="width: 100px;height:100px">
+    <p>Playing Cricket</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvo3JKVCrm1OYd-jKwrhyCNZRfOxg08LZsdw&s" alt="Traveling" style="width: 100px;height:100px">
+    <p>Listening to Music</p>
+  </div>
+ 
+</div>
