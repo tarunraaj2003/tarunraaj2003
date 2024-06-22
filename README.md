@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarun-raaj-r-045a73303/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/tarunraaj7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarun-raaj-r-045a73303/) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/tarunraaj7) <br>
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tarunraaj2003l@gmail.com)
