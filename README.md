@@ -25,9 +25,6 @@ Here are some ideas to get you started:
   </samp>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=tarunraaj2003&color=blue)
-
-
 
 ## Reach Out
 
@@ -78,6 +75,24 @@ Pursuing B.Tech. in Computer Science Engineering at Sri Ramachandra Faculty of E
 
   ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+
+## Publication
+
+### Streamlining Energy Consumption with IoT
+
+![IEEE Xplore](https://img.shields.io/badge/Publisher-IEEE%20Xplore-orange?style=flat-square&logo=ieee)
+![Conference](https://img.shields.io/badge/Conference-IDCIoT%202024-blue?style=flat-square)
+![Publication Date](https://img.shields.io/badge/Publication%20Date-March%2022,%202024-green?style=flat-square)
+![Pages](https://img.shields.io/badge/Pages-31--36%20(Scopus%20Indexed)-brightgreen?style=flat-square)
+
+**Authors:**  
+- [R.Tarun Raaj](https://github.com/tarunraaj2003)
+- [S.Rehalya Shree](https://github.com/rehalya2004)
+- [S.Vijaeshwar](https://github.com/Vijaeshwar)
+
+[Read the Paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10467411)
+
 
 ## GitHub Stats
 
